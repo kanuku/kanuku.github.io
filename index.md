@@ -6,16 +6,14 @@ tagline: First draft
 {% include JB/setup %}
 
 
- I started this blog on the 10 of August 2014.
+This blog was started on the 10 of August 2014.
+In this blog some aspects and best practices on software development will be shared with you.
 
- In this blog I hope to share some aspects and practices I have experience during my career as a Developer.
+The most interesting topics will be go about:
+  * Programming articles in Java or Scala.
+  * Developing tips
+  * Tools/Tips to help you the best out of a Mac OS/X system.
 
- This are for me the most interesting topics I would like to wirte about on this blog:
-  Programming articles in Java or Scala.
-  Developing tips
-  Tools and tips that helped me get the best out of a Mac OS/X system.
-
-Welcome, in this blog I hope to share with you ddI just released my first block article.
 
 
 #### Previous blogs:
