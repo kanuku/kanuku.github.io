@@ -9,7 +9,7 @@ tags: [guava, Joiner]
 {% include JB/setup %}
 
 ###The Guava Joiner
-The `Joiner`class in the guava library provides you great ways of mapping Collections elements into one single String. Also well known as joining elements.
+The `Joiner`class in the guava library makes it easy to join a sequence of strings.
 
 ##### Join List elements to a String
 You can simply transform a List to Strings:
