@@ -6,7 +6,7 @@ tagline: First draft
 {% include JB/setup %}
 
 
-This blog was started on the 10 of August 2014.
+This blog was started on the 10 of August 2014.  
 In this blog some aspects and best practices on software development will  
 be shared with you.
 
