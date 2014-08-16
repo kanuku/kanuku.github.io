@@ -10,9 +10,10 @@ tags: [guava, joiner,]
 ###The Guava Joiner
 The Guava Joiner class is a very convenient class when it comes into mapping Collections elements into a String. Also well known as joining elements.
 
-##### Join a List into a String
+##### Transform a List into a String
 You can simply transform a List to Strings:
-{% gist 91ef22592cd66c02be5f %} 
+{% gist 91ef22592cd66c02be5f %}
+
 `Result => Ralph/Jaymee/Sem/Boris`
 
 
