@@ -2,9 +2,11 @@
 layout: post
 title: "Guava Joiner"
 description: "Playing around with MapJoiner from guava"
-category: 
+category: Programming
+tagline: hello
 tags: [guava, joiner,]
 ---
+
 {% include JB/setup %}
 
 ###The Guava Joiner
