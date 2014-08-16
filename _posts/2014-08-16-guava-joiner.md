@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guava Joiner"
-tagline: "Playing around with MapJoiner from guava"
+tagline: "Playing around with guava"
 category: Programming
 tags: [guava, Joiner]
 ---
