@@ -3,13 +3,13 @@ layout: post
 title: "Guava Joiner"
 tagline: "Playing around with MapJoiner from guava"
 category: Programming
-tags: [guava]
+tags: [guava, Joiner]
 ---
 
 {% include JB/setup %}
 
 ###The Guava Joiner
-The Guava Joiner class is a very convenient that can be used to map Collections elements into one single String. Also well known as joining elements.
+The `Joiner`class in the guava library provides you great ways of mapping Collections elements into one single String. Also well known as joining elements.
 
 ##### Join List elements to a String
 You can simply transform a List to Strings:
