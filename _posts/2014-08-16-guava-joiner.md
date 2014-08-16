@@ -3,7 +3,7 @@ layout: post
 title: "Guava Joiner"
 tagline: "Playing around with guava"
 category: Programming
-tags: [guava, Joiner]
+tags: [guava]
 ---
 
 {% include JB/setup %}
