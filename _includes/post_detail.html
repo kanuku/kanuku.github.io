@@ -1,0 +1,13 @@
+
+<ul class="posts">
+	{% if post.date %}
+		{{ post.date | date_to_string }}
+	{% endif %}
+</ul>
+<h1 class="entry-title">
+
+	{% if post.title %}
+	    {{ post.title }}
+	{% endif %}
+</h1>
+<div class="entry-content">{{ content }}</div>
